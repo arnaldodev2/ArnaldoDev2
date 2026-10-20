@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=arnaldodev2&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=arnaldodev&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://raw.githubusercontent.com/arnaldodev2/arnaldodev2/output/activity-graph.svg?v=1" alt="arnaldodev2 github activity graph">
+  <img src="https://raw.githubusercontent.com/arnaldodev/arnaldodev/output/activity-graph.svg?v=1" alt="arnaldodev github activity graph">
 </a>
 
 </div>
