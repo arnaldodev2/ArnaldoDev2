@@ -66,16 +66,3 @@ https://github.com/stats-organization/github-stats-extended
 </picture>
 
 <br><br>
-
-<img src="./profile-3d-contrib/profile-night-green.svg" />
-
-</details>
-
-</div>
-
-<div align="center">
-<!-- Gifs get in:
-- ⭐ https://github.com/ViratiAkiraNandhanReddy/pixel-art-readme-gifs
-- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
-- https://github.com/XoanOuteiro/GIFS_forReadme
--->
