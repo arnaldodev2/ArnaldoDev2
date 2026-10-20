@@ -1,13 +1,13 @@
 # 👩🏻‍💻 Arnaldo Rosa
 
-**`Desenvolvedor FullStack`**
+**`Developer FullStack`**
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=flameastro&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=arnaldodev2&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://raw.githubusercontent.com/flameastro/flameastro/output/activity-graph.svg?v=1" alt="flameastro github activity graph">
+  <img src="https://raw.githubusercontent.com/arnaldodev2/arnaldodev2/output/activity-graph.svg?v=1" alt="arnaldodev2 github activity graph">
 </a>
 
 </div>
@@ -16,15 +16,9 @@
 
 ## 👤 About Me
 
-I'm 15 years old and I'm from POrtugal.
+I'm 15 years old.
 
-I've been coding since I was 12. I currently know **HTML, CSS, JavaScript, Python, and React**, and I'm interested in **low-level programming, cybersecurity, pentesting and security in general.
-
-### 🌱 Interests
-
-Besides programming, I enjoy learning about:
-- 🔐 Cybersecurity, logic, and problem solving
-- ✝️ Religious traditions such as Christianity, Buddhism, and Hinduism
+....
 
 ---
 
