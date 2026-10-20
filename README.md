@@ -16,9 +16,7 @@
 
 ## 👤 About Me
 
-Hi, I'm **Flame** 👋
-
-I'm 16 years old and I'm from Brazil 🇧🇷.
+I'm 15 years old and I'm from POrtugal.
 
 I've been coding since I was 12. I currently know **HTML, CSS, JavaScript, Python, and React**, and I'm interested in **low-level programming, cybersecurity, pentesting and security in general.
 
@@ -31,19 +29,14 @@ Besides programming, I enjoy learning about:
 ---
 
 ## 🚀 Stack
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 
 ## 🔧 Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Linux](https://skillicons.dev/icons?i=linux)
+![Visualstudio](https://skillicons.dev/icons?i=visualstudio)
 ![Windows](https://skillicons.dev/icons?i=windows)
-![Obsidian](https://skillicons.dev/icons?i=obsidian)
 
 ## ✉️ Contact Me
 
