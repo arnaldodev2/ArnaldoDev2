@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Arnaldo Rosa
 
-**`Developer FullStack`**
+**`---`**
 
 ---
 
