@@ -24,16 +24,6 @@
 ![Visualstudio](https://skillicons.dev/icons?i=visualstudio)
 ![Windows](https://skillicons.dev/icons?i=windows)
 
-## ✉️ Contact Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flameastrogithub@gmail.com)
-
-</div>
-
-<div align="center">
-
 <details>
 <summary><b>📊 GitHub Stats</b></summary>
 
