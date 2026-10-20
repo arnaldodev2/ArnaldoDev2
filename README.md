@@ -6,9 +6,11 @@
 
 ## 👤 About Me
 
-I'm 15 years old.
-
-....
+🎓 Software Development student
+💻 Currently learning C programming
+🌱 Building my programming skills through projects and challenges
+🎯 My goal is to become a skilled software developer
+📚 Always learning, improving, and exploring new technologies
 
 ---
 
