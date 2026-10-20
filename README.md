@@ -2,16 +2,6 @@
 
 **`Developer FullStack`**
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ArnaldoDev&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://raw.githubusercontent.com/ArnaldoDev/ArnaldoDev/output/activity-graph.svg?v=1" alt="ArnaldoDev github activity graph">
-</a>
-
-</div>
-
 ---
 
 ## 👤 About Me
