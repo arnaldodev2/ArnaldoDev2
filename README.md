@@ -49,20 +49,20 @@ Find the repository in:
 https://github.com/stats-organization/github-stats-extended
 -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flameastro&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnaldodev2&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=flameastro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=arnaldodev2&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=flameastro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arnaldodev2&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flameastro/flameastro/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flameastro/flameastro/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/flameastro/flameastro/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnaldodev2/arnaldodev2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnaldodev2/arnaldodev2/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/arnaldodev2/arnaldodev2/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br><br>
@@ -79,45 +79,6 @@ https://github.com/stats-organization/github-stats-extended
 - https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
 - https://github.com/XoanOuteiro/GIFS_forReadme
 -->
-
-<details>
-<summary><strong>🎬 My Favorite Assets</strong></summary>
-
-<img src="assets/gifs/awesome-octocat.gif">
-
-<img src="assets/gifs/chill-ball-playing.gif">
-
-<img src="assets/gifs/chill-guy-playing.gif">
-
-<img src="assets/gifs/chill-house.gif">
-
-<img src="assets/gifs/computer.gif">
-
-<img src="assets/gifs/late-chill-guy-coding.gif">
-
-<img src="assets/gifs/mario.gif">
-
-<img src="assets/gifs/robot-accessing-computer.gif">
-
-<img src="assets/gifs/robot-working.gif">
-
-<img src="assets/gifs/robot-world.gif">
-
-<img src="assets/gifs/switch-colors.gif">
-
-<img src="assets/gifs/terminal.gif">
-
-<img src="assets/gifs/tired-guy.gif">
-
-<img src="assets/gifs/christmas.gif">
-
-<img src="assets/gifs/robot-playing-video-game.gif">
-
-<img src="assets/gifs/beautiful-world.gif">
-
-</details>
-</div>
-
 ### 📊 Estatísticas
 
 <p>
