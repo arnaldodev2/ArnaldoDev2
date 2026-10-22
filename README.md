@@ -16,7 +16,6 @@
 
 ## 🚀 Stack
 ![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=c++)
 
 ## 🔧 Tools
 ![Git](https://skillicons.dev/icons?i=git)
